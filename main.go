@@ -6,8 +6,6 @@ import (
 	"math/rand"
 	"os"
 	"time"
-
-	"github.com/LouisEPITECH/GOL"
 )
 
 type Cells [40][160]bool
