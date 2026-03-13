@@ -6,6 +6,8 @@ import (
 	"math/rand"
 	"os"
 	"time"
+
+	"github.com/gdamore/tcell/v2"
 )
 
 type Cells [40][160]bool
